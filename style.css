@@ -1,0 +1,11 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 4%;
+}
+
+li{
+    float: left;
+    margin-left: 2%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    list-style-type: none;
+}
